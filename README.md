@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="100" title="hover text">
-    <div style="text-align: center"><h2><b>VS Code</b></h2></div>
+
 </p>
 
 
-## Shortcode
+## Shortcode VSCode
 - Configuración: **Ctrl + ,**
 - Ocultar Sidebar: **Ctrl + B**
 - Mostar los Archivos: **Ctrl + Shift E**
