@@ -59,4 +59,4 @@
 - Bearded Theme
 
 ## Extras
-EMMET [Leer más](https://docs.emmet.io/cheat-sheet/)
+EMMET [**`Saber mas`**](https://docs.emmet.io/cheat-sheet/)
