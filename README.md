@@ -40,6 +40,7 @@
 - Auto Rename Tag
 - Bracket Pair Colorizer 2
 - colorize
+- Better Comments
 - Color Assist
 - Error Lens
 - HTML To CSS autocompletion
