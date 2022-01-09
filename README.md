@@ -34,3 +34,26 @@
 - Buscar en un archivo : **Ctrl + F**
 - Remplazar en un Archivo: **Ctrl + H**
 - Cursor Multiples: **Ctrl + Clic**
+
+## Extensiones VSCode
+- Auto Close Tag
+- Auto Rename Tag
+- Bracket Pair Colorizer 2
+- colorize
+- Color Assist
+- Error Lens
+- HTML To CSS autocompletion
+- Live Server
+- Live Sass Compiler
+- Trailing Spaces
+- Prettier - Code formatter
+- Sass
+- Path Intellisense
+- CodeSnap
+- EditorConfig for VS Code [**`Saber mas`**](https://editorconfig.org/)
+
+## Themes
+- Material Icon Theme
+- Andromeda
+- Ayu
+- Bearded Theme
