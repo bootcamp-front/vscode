@@ -27,6 +27,5 @@
 - Seleccion de Coincidencias: **Ctrl + D**
 - Seleccione todas las ocurrencias: **Crtl shift + L**
 - Buscar en un archivo : **Ctrl + F**
-- Reemplazar en un archivo: ****
-- Remplazar: **Ctrl + H**
+- Remplazar en un Archivo: **Ctrl + H**
 - Cursor Multiples: **Ctrl + Clic**
